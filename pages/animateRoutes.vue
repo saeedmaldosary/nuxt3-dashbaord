@@ -1,3 +1,3 @@
 <template>
-  <DrawPolygon />
+  <AnimateRoutes />
 </template>
